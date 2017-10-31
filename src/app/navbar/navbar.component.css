@@ -1,0 +1,45 @@
+ul {
+  list-style-type: none;
+  margin: 6px;
+  padding: 6px;
+  overflow: hidden;
+  background-color: #563d7c;
+}
+
+li {
+  float: left;
+}
+
+li a{
+  display: block;
+  color:#b9b3ff;
+  text-align: center;
+  padding: 8px 8px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  color: white;
+}
+
+.active{
+  color: white;
+}
+.navbar-brand{
+
+  font-size: 25px;
+  float: left;
+  color: white;
+  margin-top: 7px;
+  margin-left: 15px;
+  font-family:"Yu Gothic Medium";
+
+}
+
+.navbarbody{
+
+  font-family:"Yu Gothic Medium";
+  overflow: hidden;
+  background-color: #563d7c;
+}

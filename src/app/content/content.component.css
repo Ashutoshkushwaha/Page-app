@@ -1,0 +1,57 @@
+.content-body{
+  margin-left: 15%;
+  width: 32%;
+  margin-top: 5%;
+}
+.title{
+  font-family:"Yu Gothic Medium";
+  margin-bottom: -10px;
+  font-size: 60px;
+  font-weight: bold;
+  font-stretch:expanded;
+  color:#8841b1;
+}
+.content{
+  float: left;
+  font-family:"Century Gothic";
+  font-size: 20px;
+  font-weight: 100;
+  color: grey;
+
+}
+.btn1{
+  text-align: center;
+  margin-right: 10px;
+  width: 45%;
+  height: 50px;
+  margin-top: 10px;
+  font-size: 18px;
+  background-color: white;
+  border-style: groove;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color:#8841b1;
+  color:#8841b1;
+}
+.btn2:hover{
+  background-color: #8841b1;
+  color: white;
+}
+.btn1:hover{
+  background-color: #8841b1;
+  color: white;
+}
+.btn2{
+
+  margin-left: 10px;
+  width: 45%;
+  height: 55px;
+  margin-top: 10px;
+  font-size: 18px;
+  background-color: white;
+  border-style: groove;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color:#8841b1;
+  color:#8841b1;
+}
